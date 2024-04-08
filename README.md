@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Dong Hyuk Kwon!
+# 👋 Hello, I'm DongHyuk Kwon!
 #### <code>When in Rome, do as the Romans do.</code>
 - 👍 커뮤니케이션을 통해 협업을 중시하는 Back-End 개발자가 되기 위해 노력합니다
 - 📌 현재 Python으로 알고리즘과 Tech Blog에 개발 공부를 하고 있습니다
@@ -13,11 +13,16 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 - #### Back-End
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
   ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
-  ![Mybatis](https://img.shields.io/badge/Mybatis-black?style=flat-square&logo=mybatis&logoColor=white)
+  ![MyBatis](https://img.shields.io/badge/MyBatis-black?style=flat-square&logo=mybatis&logoColor=white)
 - #### Database
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- #### Collaboration Tool
+  ![IntelliJ Idea](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ## ✨ Stat
   | <a href="https://github.com/CurtisAndrea/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CurtisAndrea&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CurtisAndrea's github stats" /></a> | <a href="https://github.com/CurtisAndrea/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CurtisAndrea&layout=compact&theme=buefy&hide_border=true" /></a> |
